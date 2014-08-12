@@ -12,6 +12,7 @@ Deploying
 ---------
 
 > git push heroku master
+
 > git push --mirror github
 
 
