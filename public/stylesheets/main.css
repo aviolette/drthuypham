@@ -2,6 +2,10 @@ ul.services > li {
   padding-bottom: 20px;
 }
 
+ul.button-list > li {
+  padding-bottom: 20px;
+}
+
 footer {
   padding: 20px 0 20px 0;
   text-align: center;
