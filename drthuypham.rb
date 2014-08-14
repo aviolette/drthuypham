@@ -1,7 +1,7 @@
 require 'sinatra'
 
 get '/' do
-  @title = 'Thuy Pham'
+  @title = 'Thuy Pham, PsyD.'
   erb :index
 end
 
