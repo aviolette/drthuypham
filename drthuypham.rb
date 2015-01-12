@@ -10,11 +10,6 @@ get '/fees' do
   erb :fees
 end
 
-get '/forms' do
-  @title = 'Forms'
-  erb :forms
-end
-
 get '/services' do
   @title = 'Services'
   erb :services
